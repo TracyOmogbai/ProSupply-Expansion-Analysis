@@ -27,6 +27,8 @@ ProSupply Global generated $2.3M in revenue but operated at only 12.5% profit ma
 | 21-30% | -10% | **-$10K** | ❌ Eliminate |
 | Over 30% | -48% | **-$125K** | ❌ Eliminate |
 
+![Additional Analysis](Additional%20Analysis.png)
+
 **Finding:** Discounts over 20% destroyed $135K in profit (47% of potential profit).
 
 ### Geographic Performance
