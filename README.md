@@ -1,4 +1,4 @@
-# ProSupply Global: Expansion Profitability Analysis
+# ProSupply Global: Expansion and Profitability Analysis
 
 ![Dashboard Overview](Dashboard%20I%20-%20Overview.png)
 
